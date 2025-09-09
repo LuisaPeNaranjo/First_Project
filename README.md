@@ -1,10 +1,16 @@
-# First_Project - Panel de anuncios de vehículos
+# 🚗 Vehicle Ads Dashboard
 
-Esta aplicación web fue creada con Streamlit y permite visualizar información de un conjunto de datos sobre anuncios de vehículos usados.
+This web application was built with **Streamlit** to explore a dataset of used vehicle ads (`vehicles_us.csv`).  
+It provides an interactive way to visualize and analyze vehicle data, especially focusing on mileage and price relationships.
 
-La app incluye:
-- Un encabezado descriptivo.
-- Una casilla de verificación para mostrar un histograma del odómetro (kilometraje).
-- Una casilla de verificación para mostrar un gráfico de dispersión entre odómetro y precio.
+## Features
+- Descriptive header with app overview.
+- Checkbox to display a **histogram of mileage**.
+- Checkbox to display a **scatter plot between mileage and price**.
+- Interactive interface for easy exploration of vehicle data.
 
-Su funcionalidad principal es facilitar la exploración visual de los datos del archivo `vehicles_us.csv`, ayudando al usuario a analizar la relación entre el kilometraje y el precio de los vehículos.
+## Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Matplotlib / Seaborn (if used)

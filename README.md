@@ -1,7 +1,7 @@
 # 🚗 Vehicle Ads Dashboard
 
 This web application was built with **Streamlit** to explore a dataset of used vehicle ads (`vehicles_us.csv`).  
-It provides an interactive way to visualize and analyze vehicle data, especially focusing on mileage and price relationships.
+It provides an interactive way to visualize and analyze vehicle data, with a particular focus on mileage and price relationships.
 
 ## Features
 - Descriptive header with app overview.
@@ -13,4 +13,3 @@ It provides an interactive way to visualize and analyze vehicle data, especially
 - Python
 - Streamlit
 - Pandas
-- Matplotlib / Seaborn (if used)
